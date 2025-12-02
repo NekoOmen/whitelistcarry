@@ -34,7 +34,8 @@
   ],
   "groups": [
 237557992,
- 555574087
+ 555574087,
+303007836
   ],
   "notes": {
     "instructions": "Add customer UserIDs to 'customers' array when they purchase your asset",
