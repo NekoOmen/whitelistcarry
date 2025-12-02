@@ -16,7 +16,8 @@
 8448285573
   ],
   "groups": [
-686381307
+686381307,
+172615930
   ],
   "notes": {
     "instructions": "Add customer UserIDs to 'customers' array when they purchase your asset",
