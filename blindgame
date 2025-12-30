@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2024-11-22T00:00:00Z",
+  "customers": [
+   7976457960
+  ],
+  "groups": [
+
+  ],
+  "notes": {
+    "instructions": "Add customer UserIDs to 'customers' array when they purchase your asset",
+    "customers_explanation": "Each customer can use the asset in ALL their games (personal + groups they own)",
+    "groups_explanation": "Add group IDs here if a group itself purchased the asset",
+    "version_importance": "Always increment version number when updating so games detect changes"
+  },
+  "example_customers": {
+    "customer_name": "User123 (bought on 2024-11-22)",
+    "user_id": 123456789,
+    "purchased_date": "2024-11-22",
+    "license_type": "Personal"
+  }
+}
