@@ -5,12 +5,14 @@
    7976457960,
    8633527101,
    2595540051,
-   522591617
+   522591617,
+   9041035780
   ],
   "groups": [
   897452475,
   585006719,
-  35866291
+  35866291,
+  388610429
   ],
   "notes": {
     "instructions": "Add customer UserIDs to 'customers' array when they purchase your asset",
