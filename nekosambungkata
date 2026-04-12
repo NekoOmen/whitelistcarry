@@ -40,7 +40,8 @@
     671707466,
     1101166847,
     322405849,
-    922941049
+    922941049,
+    625856549
   ],
   "notes": {
     "instructions": "Add customer UserIDs to 'customers' array when they purchase your asset",
