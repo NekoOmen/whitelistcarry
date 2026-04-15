@@ -50,7 +50,8 @@
   7721024582,
   10366374311,
   9947659952,
-  8782838698
+  8782838698,
+  8706841760
 
   ],
   "groups": [
@@ -95,7 +96,8 @@
 289629645,
 886011242,
 484991724,
-770766801
+770766801,
+46916242
   ],
   "notes": {
     "instructions": "Add customer UserIDs to 'customers' array when they purchase your asset",
