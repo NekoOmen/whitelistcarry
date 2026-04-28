@@ -1,5 +1,5 @@
 {
-  "version": "0.0.12",
+  "version": "0.0.13",
   "lastUpdated": "2024-11-22T00:00:00Z",
   "customers": [
     7976457960,
@@ -17,7 +17,8 @@
     3403459213,
     9722489153,
     8706841760,
-    10159942924
+    10159942924,
+    9249172045
   ], 
     
   "groups": [
@@ -33,7 +34,8 @@
   257884511,
   957983038,
   128004926,
-  46916242
+  46916242,
+  748760406
   ],
   "notes": {
     "instructions": "Add customer UserIDs to 'customers' array when they purchase your asset",
