@@ -16,7 +16,8 @@
     9854475633,
     7387474715,
     8812902108,
-    9377150667
+    9377150667,
+    9305246964
     
   ],
     
@@ -36,8 +37,7 @@
 192182803,
 543110665,
 1025592199,
-912809448,
-9305246964
+912809448
   ],
   "notes": {
     "instructions": "Add customer UserIDs to 'customers' array when they purchase your asset",
