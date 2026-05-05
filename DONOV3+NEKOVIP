@@ -35,7 +35,8 @@
 1059429323,
 192182803,
 543110665,
-1025592199
+1025592199,
+912809448
   ],
   "notes": {
     "instructions": "Add customer UserIDs to 'customers' array when they purchase your asset",
