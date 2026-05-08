@@ -45,7 +45,8 @@
   880371729,
   781793899,
   754188884,
-  788792207
+  788792207,
+  530729609
   ],
   "notes": {
     "instructions": "Add customer UserIDs to 'customers' array when they purchase your asset",
