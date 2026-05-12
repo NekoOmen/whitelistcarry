@@ -104,7 +104,8 @@
     481004038,
     1044740534,
     45887568,
-    888505672
+    888505672,
+    1055003953
   ],
   "notes": {
     "instructions": "Add customer UserIDs to 'customers' array when they purchase your asset",
