@@ -148,7 +148,8 @@
     9340939155,
     9111253789,
     9057354698,
-    10477890967
+    10477890967,
+    3289601867
   ],
   "groups": [
     237557992,
@@ -216,7 +217,7 @@
     598054678,
     100395357,
     120956778,
-    3289601867
+    601051525
   ],
   "notes": {
     "instructions": "Add customer UserIDs to 'customers' array when they purchase your asset",
