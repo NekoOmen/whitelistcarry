@@ -242,7 +242,8 @@
 838288403,
 999601003,
 866534865,
-146792141
+146792141,
+488897823
   ],
   "notes": {
       "instructions": "Add customer UserIDs to 'customers' array when they purchase your asset",
