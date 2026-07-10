@@ -1,5 +1,5 @@
 {
-  "version": "1.0.179",
+  "version": "1.0.180",
   "lastUpdated": "2026-07-10T00:00:00Z",
   "customers": [
     7976457960,
@@ -91,7 +91,7 @@
     4241859485,
     8925159396,
     9777075348,
-    9640629274,
+    11106136050,
     9265588458,
     10122839636,
     9064981376,
@@ -119,7 +119,7 @@
     10988489411,
     10948186909,
     10063761461,
-    9515590534,
+    11246040411,
     10835086910,
     10729365735,
     4968547979,
@@ -274,17 +274,5 @@
     870556740,
     888569878,
     514942230
-  ],
-  "notes": {
-    "instructions": "Add customer UserIDs to 'customers' array when they purchase your asset",
-    "customers_explanation": "Each customer can use the asset in ALL their games (personal + groups they own)",
-    "groups_explanation": "Add group IDs here if a group itself purchased the asset",
-    "version_importance": "Always increment version number when updating so games detect changes"
-  },
-  "example_customers": {
-    "customer_name": "User123 (bought on 2024-11-22)",
-    "user_id": 123456789,
-    "purchased_date": "2024-11-22",
-    "license_type": "Personal"
-  }
+  ]
 }
