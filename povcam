@@ -1,1 +1,67 @@
-{"version":"0.0.24","lastUpdated":"2026-09-16T19:50:53Z","customers":[7976457960,8842461518,8692493724,9666444074,9304928757,7098943752,9201547174,8782838698,9777075348,9013428672,8925159396,9105322724,5172949234,9302401197,9313772203,8241924748,8953927040,8440123490,9095726430,3367618500,9475195087,9750485304,9679185375,10365828953],"groups":[732485098,149421184,243448609,779089474,589451648,1076135636,770766801,279979250,226901869,88908036,732908981,865804703,590588532,444223558,43181194,366902927,377770182,774592295,318799333,165718764,704844149,560118809,623568675],"notes":{"instructions":"Add customer UserIDs to 'customers' array when they purchase your asset","customers_explanation":"Each customer can use the asset in ALL their games (personal + groups they own)","groups_explanation":"Add group IDs here if a group itself purchased the asset","version_importance":"Always increment version number when updating so games detect changes"},"example_customers":{"customer_name":"User123 (bought on 2024-11-22)","user_id":123456789,"purchased_date":"2024-11-22","license_type":"Personal"}}
+{
+  "version": "0.0.24",
+  "lastUpdated": "2026-09-16T19:50:53Z",
+  "customers": [
+    7976457960,
+    8842461518,
+    8692493724,
+    9666444074,
+    9304928757,
+    7098943752,
+    9201547174,
+    8782838698,
+    9777075348,
+    9013428672,
+    8925159396,
+    9105322724,
+    5172949234,
+    9302401197,
+    9313772203,
+    8241924748,
+    8953927040,
+    8440123490,
+    9095726430,
+    3367618500,
+    9475195087,
+    9750485304,
+    9679185375,
+    10365828953
+  ],
+  "groups": [
+    732485098,
+    149421184,
+    243448609,
+    779089474,
+    589451648,
+    1076135636,
+    770766801,
+    279979250,
+    226901869,
+    88908036,
+    732908981,
+    865804703,
+    590588532,
+    444223558,
+    43181194,
+    366902927,
+    377770182,
+    774592295,
+    318799333,
+    165718764,
+    704844149,
+    560118809,
+    623568675
+  ],
+  "notes": {
+    "instructions": "Add customer UserIDs to 'customers' array when they purchase your asset",
+    "customers_explanation": "Each customer can use the asset in ALL their games (personal + groups they own)",
+    "groups_explanation": "Add group IDs here if a group itself purchased the asset",
+    "version_importance": "Always increment version number when updating so games detect changes"
+  },
+  "example_customers": {
+    "customer_name": "User123 (bought on 2024-11-22)",
+    "user_id": 123456789,
+    "purchased_date": "2024-11-22",
+    "license_type": "Personal"
+  }
+}
